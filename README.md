@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖 Currently Busy with my graduation project, and a thsis on the step.
+📖 Currently Busy with my graduation project, and a thsis on the step.  
 🔖 Welcome to my own blog on [https://grobsr.com](https://grobsr.com)
