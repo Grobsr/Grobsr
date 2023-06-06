@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖 Busy with Java and Python.  
-🔖 Welcome to my own blog on [https://grobsr.com](https://grobsr.com)
+📖 Busy with Java.  
